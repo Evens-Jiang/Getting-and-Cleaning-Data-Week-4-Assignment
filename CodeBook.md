@@ -93,3 +93,5 @@ Activity column has 6 types as listed below.
 Activity variable is factor type.
 Subject variable is integer type.
 All the other variables are numeric type.
+
+Happy reading
