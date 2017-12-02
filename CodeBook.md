@@ -19,14 +19,14 @@ Activity column has 6 types as listed below.
 5. STANDING
 6. LAYING
 
-### The tidy data contains 6 rows (averaged based on activity) and 68 columns (66 variables and activity labels).
+### The tidy data contains 180 rows (averaged based on activity) and 68 columns (66 variables and activity labels).
 1. "activitylabel"
 2. "subject"
 3. "tBodyAcc-mean()-X"          
 4. "tBodyAcc-mean()-Y"
 5. "tBodyAcc-mean()-Z"
 6. "tBodyAcc-std()-X"           
-7. "tBodyAcc-std()-Y" 
+7. "tBodyAcc-std()-Y"
 8. "tBodyAcc-std()-Z"
 9. "tGravityAcc-mean()-X"
 10. "tGravityAcc-mean()-Y"
@@ -44,8 +44,8 @@ Activity column has 6 types as listed below.
 22. "tBodyGyro-mean()-Y"
 23. "tBodyGyro-mean()-Z"
 24. "tBodyGyro-std()-X"          
-25. "tBodyGyro-std()-Y" 
-26. "tBodyGyro-std()-Z" 
+25. "tBodyGyro-std()-Y"
+26. "tBodyGyro-std()-Z"
 27. "tBodyGyroJerk-mean()-X"     
 28. "tBodyGyroJerk-mean()-Y"
 29. "tBodyGyroJerk-mean()-Z"
@@ -82,11 +82,11 @@ Activity column has 6 types as listed below.
 60. "fBodyGyro-std()-Z"          
 61. "fBodyAccMag-mean()"
 62. "fBodyAccMag-std()"   
-63. "fBodyBodyAccJerkMag-mean()" 
+63. "fBodyBodyAccJerkMag-mean()"
 64. "fBodyBodyAccJerkMag-std()"
-65. "fBodyBodyGyroMag-mean()" 
+65. "fBodyBodyGyroMag-mean()"
 66. "fBodyBodyGyroMag-std()"     
-67. "fBodyBodyGyroJerkMag-mean()" 
+67. "fBodyBodyGyroJerkMag-mean()"
 68. "fBodyBodyGyroJerkMag-std()"
 
 ### variable units
